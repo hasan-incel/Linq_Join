@@ -39,8 +39,6 @@ Oluşturduğunuz LINQ sorgusunun sonucunu ekrana yazdırın. Her kitabın başl�
 
 ![image](https://github.com/user-attachments/assets/b3394256-a1fe-406f-877b-f56b95fea42d)
 
-![image](https://github.com/user-attachments/assets/14c4d55a-f20b-4443-bf25-45bb63d6f5f7)
-
 **Notlar:**
 LINQ sorgusunda join işlemini kullanarak iki tabloyu birleştirin.
 
